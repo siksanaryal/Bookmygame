@@ -5,19 +5,19 @@ document.querySelector('nav').innerHTML = `
         <input type="text" placeholder="search here" class="nav-search">
         <ul class="nav-menu">
           <li class="nav-item">
-            <a href="index.html" class="nav-link">HOME</a>
+            <a href="../html/index.html" class="nav-link">HOME</a>
           </li>
           <li class="nav-item">
-            <a href="html/mybooking.html" class="nav-link">BOOKINGS</a>
+            <a href="../html/mybooking.html" class="nav-link">BOOKINGS</a>
           </li>
           <li class="nav-item">
             <div class="dropdown">
-              <a href="html/bookingpage.html" id="venues" class="nav-link">VENUES</a>
+              <a href="../html/bookingpage.html" id="venues" class="nav-link">VENUES</a>
 
 
               <div class="dropdown-content">
                 <a href="#">Bharatpur</a>
-                <a href="html/bookingpage.html">Chitwan</a>
+                <a href="../html/bookingpage.html">Chitwan</a>
                 <a href="#">Kathmandu</a>
                 <a href="#">Lalitpur</a>
                 <a href="#">Bhaktapur</a>
@@ -28,10 +28,10 @@ document.querySelector('nav').innerHTML = `
             </div>
           </li>
           <li class="nav-item">
-            <a href="html/Shop.html" class="nav-link">SHOP</a>
+            <a href="../html/Shop.html" class="nav-link">SHOP</a>
           </li>
           <li class="nav-item">
-            <a href="html/tournamentpage.html" class="nav-link">TOURNAMENT</a>
+            <a href="../html/tournamentpage.html" class="nav-link">TOURNAMENT</a>
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link"><i class="fa-solid fa-bell"></i></a>
