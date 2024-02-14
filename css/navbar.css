@@ -144,11 +144,11 @@
     }
   
     .nav-menu.active {
-        left: 10;
+        left: 0;
     }
   
     .nav-item {
-        margin: 2.5rem 0;
+        margin: 1rem 0;
     }
     .nav-search{
       width: 10rem;
